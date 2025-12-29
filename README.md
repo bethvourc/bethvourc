@@ -3,7 +3,7 @@
 Software Engineer | Founder | Cloud & ML-Driven Problem Solver  
 
 I build technology that improves real-world safety, productivity, and community life.  
-From mobile apps to cloud-scale data pipelines — my mission is to create systems that **help people and cities operate smarter.**
+From mobile apps to cloud-scale data pipelines, my mission is to create systems that **help people and cities operate smarter.**
 
 ---
 
@@ -59,7 +59,7 @@ message = work_life_balance("Complete Python project", "excited")
 print(message)
 
 ```
-
+---
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bethvour-chike/) 
