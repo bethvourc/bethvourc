@@ -1,10 +1,11 @@
-### Hi there 👋
+# 👋 Hi, I'm Bethvour
 
-# 💫 About Me:
+Software Engineer | Founder | Cloud & ML-Driven Problem Solver  
 
-Hello! I'm **Bethvour**, a tech enthusiast with a knack for innovation. I’m always open to collaborative opportunities that challenge the status quo and push the boundaries of what’s possible with data exchange, cloud solutions, and full stack development.
+I build technology that improves real-world safety, productivity, and community life.  
+From mobile apps to cloud-scale data pipelines — my mission is to create systems that **help people and cities operate smarter.**
 
-<br>Fun fact about me? I've brought the digital and physical worlds closer together by developing a virtual AI mouse controlled by hand gestures—a hint of my playful side meshing with serious coding chops.<br>
+---
 
 # Always Remember:
 
