@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bethvour
+# Hi, I'm Bethvour
 
 Software Engineer | Founder | Cloud & ML-Driven Problem Solver  
 
@@ -9,7 +9,7 @@ From mobile apps to cloud-scale data pipelines, my mission is to create systems 
 
 # Always Remember:
 
-## 😄 Work-Life Balance Function
+## Work-Life Balance Function :)
 
 ```python
 def work_life_balance(task: str, mood: str = 'neutral') -> str:
