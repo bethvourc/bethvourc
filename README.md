@@ -12,7 +12,7 @@ My work sits at the seam between the two: post-training and evaluating LLMs on o
 
 ## Now building — Agent Relay
 
-**[agent-relay.dev](https://www.agent-relay.dev/) · [source](https://github.com/bethvourc/agent--relay) · 8,000+ developers · Apache 2.0**
+**[agent-relay.dev](https://www.agent-relay.dev/) · [source](https://github.com/bethvourc/agent--relay) · 10,000+ developers · Apache 2.0**
 
 The control plane for coding agents. A local-first CLI + desktop app that launches multiple coding agents, streams their work in real time, hands sessions between models without losing context, and resumes anything that stopped mid-task.
 
